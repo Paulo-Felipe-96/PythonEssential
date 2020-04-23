@@ -1,0 +1,7 @@
+premio = float(input('Valor prêmio R$: '))
+ap1 = float(input('Valor apostador 1 R$: '))
+ap2 = float(input('Valor apostador 2 R$: '))
+ap3 = float(input('Valor apostador 3 R$: '))
+p1 = premio * (ap1 / 100)
+p2 = premio * (ap2 / 100)
+p3 = premio * (ap3 / 100)
